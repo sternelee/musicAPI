@@ -1,3 +1,6 @@
+#从[musicafe.co](https://musicafe.co)修改而来，增加 [cors](https://www.npmjs.com/package/cors) 模块来解决跨域问题
+
+
 # Centralized Node.js API for Netease, QQ, Xiami music
 
 > This SDK provide simple API interface based on Promise, netease API is get
