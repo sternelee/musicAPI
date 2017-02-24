@@ -4,6 +4,9 @@ const port = process.env.PORT || 8080;
 const app = express();
 const MusicApi = require('../src');
 
+const cors = require('cors');
+app.use(cors());
+
 app.get('/search/song/:vendor', (req, res) => {
   let key = req.query.key,
       limit = req.query.limit,
