@@ -1,4 +1,4 @@
-#从[musicafe.co](https://musicafe.co)修改而来，增加 [cors](https://www.npmjs.com/package/cors) 模块来解决跨域问题
+#从[LIU9293/musicAPI](https://github.com/LIU9293/musicAPI)修改而来，增加 [cors](https://www.npmjs.com/package/cors) 模块来解决跨域问题
 
 
 # Centralized Node.js API for Netease, QQ, Xiami music
